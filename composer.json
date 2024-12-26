@@ -11,6 +11,7 @@
         }
     ],
     "license": "BSD-3-Clause",
+    "minimum-stability": "dev",
     "require": {
         "php": ">=5.6.0",
         "torvaldz/jwt": "dev-master",
