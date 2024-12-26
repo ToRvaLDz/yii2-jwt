@@ -13,7 +13,7 @@
     "license": "BSD-3-Clause",
     "require": {
         "php": ">=5.6.0",
-        "lcobucci/jwt": "~3.3.0",
+        "torvaldz/jwt": "dev-zip",
         "yiisoft/yii2": "~2.0.0"
     },
 	"require-dev": {
@@ -33,6 +33,10 @@
         {
             "type": "composer",
             "url": "https://asset-packagist.org"
+        },
+        {
+           "type": "vcs",
+           "url": "https://github.com/ToRvaLDz/jwt.git"
         }
     ]    
 }
